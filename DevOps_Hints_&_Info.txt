@@ -1,0 +1,12 @@
+git
+tortoise git
+git hub desktop
+terraform
+docker
+vmware
+azure subscriptions
+azure devops
+jenking --- Install on local laptop, 
+jdk
+maven
+github account
